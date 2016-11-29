@@ -2,12 +2,11 @@
 </style>
 
 <template>
-  <div>
+  <div v-show="flase">
   </div>
 </template>
 
 <script>
-  // import store from '../store'
   export default {
     props: {
       scripts: {

@@ -1,17 +1,7 @@
 {
-<<<<<<< HEAD
-  "name": "bz-script-loader",
-  "version": "1.0.6",
-  "description": "oauth2 button",
-||||||| merged common ancestors
-  "name": "bz-script-loader",
-  "version": "1.0.3",
-  "description": "oauth2 button",
-=======
   "name": "bz-base",
   "version": "2.0.0",
   "description": "bz-base",
->>>>>>> 76d98f719707ac4a05a0a8aa30d31f67a0810767
   "main": "dist/main.js",
   "keywords": [
     "vue",

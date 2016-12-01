@@ -17,7 +17,7 @@
       return {
       }
     },
-    ready () {
+    mounted () {
       for (var i in this.scripts) {
         this.addScript(this.scripts[i])
       }

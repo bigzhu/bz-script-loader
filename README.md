@@ -1,6 +1,6 @@
-# bz-base
+# bz-script-loader
 
-> bz-base
+> bz-script-loader
 
 ## Build Setup
 

@@ -1,6 +1,4 @@
 <template>
-  <div v-show="flase">
-  </div>
 </template>
 
 <script>
